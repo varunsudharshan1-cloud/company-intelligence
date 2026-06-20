@@ -1,14 +1,26 @@
 # Company Intelligence Agent
 
-A production-quality MVP that generates professional business intelligence reports from a company website URL — **without any paid or external AI APIs**. All analysis is produced by a deterministic, rule-based engine.
+A production-quality MVP that generates professional business intelligence reports from a company website URL.All analysis is produced by a deterministic, rule-based engine.
+
+## Live Demo
+
+https://company-intelligence-f6t2.vercel.app
+
+## GitHub Repository
+
+https://github.com/varunsudharshan1-cloud/company-intelligence
+
 
 ## Tech Stack
 
-- Next.js 15 (App Router)
-- TypeScript (strict mode)
+- Next.js
+- React
+- TypeScript
 - Tailwind CSS
-- jsPDF (free, for PDF export)
-- No auth, no database — fully stateless MVP
+- Node.js
+- Vercel
+
+
 
 ## Features
 
