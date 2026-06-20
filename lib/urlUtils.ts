@@ -43,9 +43,9 @@ export function extractDomainKey(url: string): { domainKey: string; fullDomain: 
   const brand = parts.length >= 2 ? parts[parts.length - 2] : parts[0];
 
   return {
-    domainKey: brand,
-    fullDomain: hostname,
-  };
+  domainKey: brand!,
+  fullDomain: hostname,
+};
 }
 
 /**
