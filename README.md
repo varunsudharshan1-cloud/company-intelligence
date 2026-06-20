@@ -11,25 +11,6 @@ https://company-intelligence-f6t2.vercel.app
 https://github.com/varunsudharshan1-cloud/company-intelligence
 
 
-## API Endpoints
-
-| Method | Endpoint     |
-| ------ | ------------ |
-| GET    | /api/health  |
-| GET    | /api/status  |
-| GET    | /api/version |
-| POST   | /api/analyze |
-
-### Full URLs
-
-https://company-intelligence-f6t2.vercel.app/api/health
-
-https://company-intelligence-f6t2.vercel.app/api/status
-
-https://company-intelligence-f6t2.vercel.app/api/version
-
-https://company-intelligence-f6t2.vercel.app/api/analyze
-
 
 
 ## Tech Stack
