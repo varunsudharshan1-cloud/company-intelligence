@@ -1,0 +1,62 @@
+{
+  "Technology": {
+    "strengths": ["Strong brand recognition", "High innovation capacity", "Scalable digital infrastructure", "Strong talent pipeline"],
+    "weaknesses": ["High operating costs", "Dependence on key personnel", "Rapid product obsolescence risk"],
+    "opportunities": ["AI and automation adoption", "Expansion into emerging markets", "Cloud and SaaS growth"],
+    "threats": ["Intense global competition", "Regulatory scrutiny", "Cybersecurity risks"]
+  },
+  "Automotive": {
+    "strengths": ["Established manufacturing scale", "Strong supply chain network", "Brand loyalty"],
+    "weaknesses": ["High capital expenditure", "Long production cycles", "Exposure to commodity price swings"],
+    "opportunities": ["Electric vehicle transition", "Autonomous driving technology", "Emerging market demand"],
+    "threats": ["Stringent emissions regulation", "EV market competition", "Supply chain disruption"]
+  },
+  "E-Commerce": {
+    "strengths": ["Wide logistics network", "Large customer base", "Data-driven personalization"],
+    "weaknesses": ["Thin profit margins", "High fulfillment costs", "Dependence on third-party sellers"],
+    "opportunities": ["Cross-border expansion", "AI-driven recommendations", "Subscription model growth"],
+    "threats": ["Rising competition", "Regulatory pressure on marketplaces", "Logistics cost inflation"]
+  },
+  "Entertainment": {
+    "strengths": ["Strong content library", "Global subscriber base", "Brand recognition"],
+    "weaknesses": ["High content production costs", "Subscriber churn risk"],
+    "opportunities": ["International market expansion", "Ad-supported tier growth", "Live and interactive content"],
+    "threats": ["Streaming market saturation", "Piracy", "Rising content costs"]
+  },
+  "Finance": {
+    "strengths": ["Strong regulatory compliance", "Established trust and brand", "Diversified revenue base"],
+    "weaknesses": ["Legacy infrastructure", "High compliance overhead"],
+    "opportunities": ["Fintech and digital payments growth", "Emerging market financial inclusion"],
+    "threats": ["Regulatory changes", "Cybersecurity and fraud risk", "Fintech disruption"]
+  },
+  "Healthcare": {
+    "strengths": ["Strong R&D pipeline", "Regulatory expertise", "Established distribution"],
+    "weaknesses": ["Long product approval cycles", "High R&D costs"],
+    "opportunities": ["Personalized medicine", "Digital health expansion", "Emerging market access"],
+    "threats": ["Regulatory delays", "Patent expirations", "Pricing pressure"]
+  },
+  "Energy": {
+    "strengths": ["Established infrastructure", "Diversified energy portfolio"],
+    "weaknesses": ["High capital intensity", "Exposure to commodity prices"],
+    "opportunities": ["Renewable energy transition", "Energy storage technology"],
+    "threats": ["Regulatory and environmental policy shifts", "Commodity price volatility"]
+  },
+  "Retail": {
+    "strengths": ["Strong brand recognition", "Large physical and digital footprint"],
+    "weaknesses": ["Thin margins", "High labor costs"],
+    "opportunities": ["Omnichannel expansion", "International growth", "Private label growth"],
+    "threats": ["E-commerce competition", "Inflation impacting consumer spending"]
+  },
+  "Telecommunications": {
+    "strengths": ["Extensive network infrastructure", "Large subscriber base"],
+    "weaknesses": ["High infrastructure costs", "Slow-moving legacy systems"],
+    "opportunities": ["5G and network expansion", "IoT and enterprise services"],
+    "threats": ["Regulatory pricing pressure", "Intense price competition"]
+  },
+  "General": {
+    "strengths": ["Established market presence", "Diversified operations"],
+    "weaknesses": ["Operational complexity", "Exposure to market cycles"],
+    "opportunities": ["Digital transformation", "New market expansion"],
+    "threats": ["Competitive pressure", "Macroeconomic uncertainty"]
+  }
+}
